@@ -1,0 +1,35 @@
+.App {
+    background: #DDD;
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.container {
+    width: 33.3333%;
+    
+}
+
+.box1{
+    background: linear-gradient(90deg, rgba(255,231,42,1) 0%, rgba(233,217,24,1) 68%, rgba(255,136,0,1) 100%);
+    color: #fff;
+}
+
+.box2 {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    color: #fff;
+}
+
+.box3 {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,18,9,1) 0%, rgba(255,0,18,1) 100%);
+    color: #fff;
+}
+
+.box4 {
+    background: #4CC900;
+    color: #fff;
+}
